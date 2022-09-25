@@ -9,6 +9,7 @@ Packages:
 Bugs:
 - [ ] Setting scroll speed to 100% messes up measure bars
 - [ ] Start/end color only changes new notes, not current ones
+- [ ] Can only quit by making it windowed (alt + enter) or alt + F4
 
 TODO:
 - [ ] Turn endpoint into seconds (end time = 60/tempo * endpoint in seconds)
