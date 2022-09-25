@@ -13,7 +13,7 @@ Bugs:
 TODO:
 - [ ] Turn endpoint into seconds (end time = 60/tempo * endpoint in seconds)
 - [ ] Better handling of note spacing (defaults to 240)
-  - [ ] Show closest note/time info with regards to cursor position
+- [ ] Show closest note/time info with regards to cursor position
 - [ ] Drag bounding box to select notes
 - [ ] Copy/Paste
 - [ ] Lyrics
